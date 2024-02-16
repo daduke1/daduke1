@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning data science and engineering at ITESO
+- 🤔 I’m looking for help with learning generative AI
+- 💬 Ask me about football!
+- 👯 I’m looking to collaborate on applying ML to football and other sports
+
+
+
 <!--
 **daduke1/daduke1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
